@@ -28,9 +28,6 @@ class PolishNotation
     /**
      * @param string $input
      *
-     * I realize I mixed up $right and $left, it had to do with the work I was attempting during the
-     * live interview.   Code review would have caught that =)
-     * 
      * @return float
      */
     public function calculate(string $input): float
