@@ -30,7 +30,8 @@ class PolishNotation
      *
      * @return float
      */
-    public function calculate(string $input): float {
+    public function calculate(string $input): float
+    {
         $stack = [];
         $params = explode(" ", $input);
 
