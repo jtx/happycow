@@ -2,7 +2,7 @@
 
 Make sure you have PHP and composer installed. Google how to do those, that's out out the scope of this project.
 
-* Run
+* Installation
   ```
   composer install
   ```
