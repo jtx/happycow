@@ -5,6 +5,10 @@
   ```
   php Command.php "X"
   ```
+  
   using a valid polish notation of your choice
   - For exemple, replace "X" with "1 2 + 3 4 + *"
-* To run the unit tests, type vendor/bin/phpunit
+* To run the unit tests, type
+  ```
+  vendor/bin/phpunit
+  ```
